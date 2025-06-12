@@ -72,3 +72,13 @@
     - marketing
     - multi-modal
     - image-generation
+
+- title: "Function Calling 101"
+  path: examples/function_calling_101/guide.ipynb
+  date: 2025-01-17
+  image: images/function_calling_101.jpg
+  description: "An introduction to function calling for beginners"
+  authors:
+    - Zhaohan Dong
+  tags:
+    - function-calling
